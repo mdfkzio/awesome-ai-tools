@@ -492,7 +492,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Remusic](https://remusic.ai/en) - AI Music Generator and Music Learning Platform Online Free.
 
 ## Other
-
+- [NutriDetector](https://nutridetector.com) - AI tool that audits supplement labels to spot underdosed ingredients and fillers.
 - [Taranify](https://www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
